@@ -17,8 +17,8 @@ declare global {
   }
 }
 export const metadata: Metadata = {
-  title: "Rhym",
-  description: "One stop platform for interactive & playable marketing",
+  title: "Hostel Book",
+  description: "Hostel Book",
 };
 
 export default function RootLayout({
