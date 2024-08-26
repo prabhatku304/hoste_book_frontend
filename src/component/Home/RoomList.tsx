@@ -17,7 +17,7 @@ const RoomList = () => {
     <div className="w-full h-full py-12">
       <div className="flex flex-col md:flex-row gap-6 w-full">
         {roomsData.map((ele, i) => (
-          <div className="w-full md:w-1/3 shadow-lg p-4" key={i}>
+          <div className="w-full md:w-1/3 shadow-lg p-4 rounded-[20px]" key={i}>
             <div className="h-[200px] md:h-[300px] w-full" id="room_thumbnails">
               <Slider {...thumbnailSettings}>
                 {ele.thumbnails &&
