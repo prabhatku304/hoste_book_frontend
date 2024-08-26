@@ -446,3 +446,7 @@ strong {
   /* Internet Explorer 10+ */
   color: var(--placeholder-color, 'gray');
 }
+
+#room_thumbnails .slick-list{
+ border-radius: 20px;
+}

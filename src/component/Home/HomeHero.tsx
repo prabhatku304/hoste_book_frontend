@@ -10,7 +10,8 @@ const HomeHero = () => {
         <div className="h-full w-full flex items-end justify-start container mx-auto ">
           <div className="text-white mb-16">
             <h2 className="h2-thin h5-sm-thin font-bold">
-              Discover Extraordinary <br /> Comfort in Hotels
+              Welcome to Rainbow <br />
+              Lining Hostels
             </h2>
           </div>
         </div>

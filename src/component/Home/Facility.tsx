@@ -9,7 +9,7 @@ const Facility = () => {
             backgroundPosition: "center",
           }}
         >
-          <div className="text-white absolute bottom-4 inset-x-0 mx-auto w-full flex justify-center h4-thin h6-sm-thin">
+          <div className="text-white absolute bottom-4 inset-x-0 mx-auto w-full flex justify-center h4-thin h6-sm-thin ">
             Rooms
           </div>
         </div>
